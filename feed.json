@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"posts": [
+		{
+			"id": "mailbox-v2-update",
+			"kind": "update",
+			"title": "The new mailbox",
+			"date": "2026-10-30",
+			"banner": "update",
+			"headline": "A bigger mailbox",
+			"body": [
+				"Your mailbox has a new look.",
+				"• Rewards: gifts from the team. Tap Claim before they expire.",
+				"• News: updates, events and notices from the garden.",
+				"A red dot on the mailbox means something new is waiting."
+			]
+		},
+		{
+			"id": "legacy-welcome",
+			"kind": "notice",
+			"title": "Welcome to Bushwack TD!",
+			"date": "2026-10-23",
+			"banner": "notice",
+			"body": [
+				"Welcome to Bushwack TD!",
+				"Plant hedges and towers to build a maze. The longer the path the bugs have to walk, the more damage your towers do."
+			]
+		},
+		{
+			"id": "legacy-thanks-for-testing",
+			"kind": "notice",
+			"title": "Thanks for testing!",
+			"date": "2026-10-23",
+			"banner": "notice",
+			"body": [
+				"Thanks for testing!",
+				"This is an early build, so some things may change. Thank you for playing and for your feedback."
+			]
+		}
+	],
+	"rewards": []
+}
