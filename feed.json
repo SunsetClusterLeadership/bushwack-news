@@ -24,7 +24,8 @@
 			"body": [
 				"Welcome to Bushwack TD!",
 				"Plant hedges and towers to build a maze. The longer the path the bugs have to walk, the more damage your towers do."
-			]
+			],
+			"end": "2026-11-01T00:00:00Z"
 		},
 		{
 			"id": "legacy-thanks-for-testing",
@@ -35,6 +36,23 @@
 			"body": [
 				"Thanks for testing!",
 				"This is an early build, so some things may change. Thank you for playing and for your feedback."
+			],
+			"end": "2026-11-01T00:00:00Z"
+		},
+		{
+			"id": "welcome-testers-2026-11",
+			"kind": "notice",
+			"title": "Thanks for testing!",
+			"date": "2026-11-03",
+			"banner": "notice",
+			"headline": "Welcome, Tester!",
+			"body": [
+				"Thank you for helping us test Bushwack TD!",
+				"Most tower defense games give you a fixed path. Here, you build the maze: plant hedges to stretch the path, and the longer it gets, the more damage your towers do.",
+				"We're a small indie studio, and your feedback shapes the game. Tell us what you love and what feels off.",
+				"",
+				"Sincerely,",
+				"The Bushwack TD Team"
 			]
 		}
 	],

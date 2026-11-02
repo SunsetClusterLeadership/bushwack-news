@@ -9,8 +9,9 @@ Changing `feed.json` never needs a new game build. Players see a change the next
 fetches (at launch, or when they open the mailbox at least 10 minutes after the last fetch).
 GitHub Pages can also take a few minutes to publish a commit.
 
-The full format reference lives in the game repository at `docs/ops/mailbox-feed.md`. The short
-version is below.
+**Before posting, read [POSTING.md](POSTING.md)**: the posting guide (fields, tone, validation
+and the history of every id used). The full format reference lives in the game repository at
+`docs/ops/mailbox-feed.md`. The short version is below.
 
 ## Add a news post (the News tab)
 
